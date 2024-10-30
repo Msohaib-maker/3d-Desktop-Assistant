@@ -5,7 +5,7 @@ a = Analysis(
     ['GUI.py'],
     pathex=[],
     binaries=[],
-    datas=[('assistant1.jpeg', '.'), ('upload.png', '.'), ('send.png', '.'), ('hologram.png', '.')],
+    datas=[('Images', 'Images')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
